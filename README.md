@@ -1,10 +1,11 @@
 # Hospital Management System
 
 ## Internship Details
-- Name: Dibyajyoti Palei
-- Intern ID: CITS3229
-- Domain: Full Stack Web Development
+- Name: Nikhil Kumar Puhan
+- Intern ID: CITS3639
+- Domain: Python Programming
 - Organization: CODTECH IT Solutions
+- Duration: 4 Weeks
 
 ## Project Overview
 The Hospital Management System is designed to manage patient records efficiently. Users can add, view and delete patient details through a simple interface.
